@@ -11,7 +11,7 @@ Thanks to the other folks who have posted their wooden rocker build pictures on 
 
 # Goal
 These instructions should result in a wooden rocker like the one in the picture below.\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/final.jpg" width="400">
+<img src="img/final.jpg" width="400">
 
 # BOM
 
@@ -57,7 +57,7 @@ Planning
 
 ## Top Base
 Pretty simple:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/RoundBaseBlank.png" width="600">
+<img src="img/RoundBaseBlank.png" width="600">
 
 We want a circle with a 14" diameter. Put a small nail where you want the center to be and use a 7" long string or piece of cardboard to trace a circle onto the plywood.
 
@@ -76,14 +76,14 @@ This is a bit tricky, I recommend drawing it out on a piece of cardboard in penc
 1. Cut out the cardboard to the outer perimeter
 1. Place the cardboard on the plywood sheet and trace out design onto the plywood
 
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/BaseSketchTextCropped.png" width="600">
+<img src="img/BaseSketchTextCropped.png" width="600">
 
 ## Tall sides
 These are just cut from the 1x8 board.
 I recommend making them 28" tall. Pencil in lines on the 1x8 board for two 28" segments.
 
 Here's the goal:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/TallSidesBlank.png" width="300">
+<img src="img/TallSidesBlank.png" width="300">
 
 ### Bearing cutouts
 **Note**: If you are using furniture sliders instead of 1/8" PTFE, you'll need to take into account their thickness and not simply use the outer edge of the Z bearing as I do here for my 1/8" PTFE strips.
@@ -94,20 +94,20 @@ You probably should do this after you have cut the 28" segments, but this is the
 1. Keeping it centered left-right, move it up or down so the top of the wood meets the _lower_ hole of the bearing (when not cut, this would be the purple line in the diagram)
 1. Trace the outer (raised) edge of the bearing (Note: this only will give the right diameter if you're using 1/8" Teflon pads, as the raised edge is about 1/8" beyond the wider base)
 
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/Z-bearing-cutout-cropped.png" width="600">
+<img src="img/Z-bearing-cutout-cropped.png" width="600">
 
 ## Cross pieces
 Again, make sure you're using the wider mount interface or have the extra spacers!
 
 Goal:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/CrossPiecesBlank.png" width="400">
+<img src="img/CrossPiecesBlank.png" width="400">
 
 1. Measure the width from the *insides* of the outer rim of the Z bearings (black line in diagram) (Don't use my measurements - but it should be something in the ballpark of 8 3/8")
 1. Measure the width (shortest dimension) of your 1x8 boards (tip: 1x8 boards are _not_ 1" by 8") (something near 3/4" each)
 1. Subtract 2\* the width of your boards (step 2) from the total width found in step 1 to get the width of the cross pieces (Again, measure yourself, but expect something like 8 3/8" - 1 1/2" = 6 7/8")
 1. Using the distance found in step 3, mark out 3 cross pieces on your 1x8 board (mark lines across the width of the board)
 
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/MTA-measure.png" width="500">
+<img src="img/MTA-measure.png" width="500">
 
 
 # Cutting
@@ -137,7 +137,7 @@ It is optional, but for durability and water-resistance I polyurethaned each of 
 
 ## Top box
 Goal (semi-see-through with screws):\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/TopBoxWoodAssembled.png" width="400">
+<img src="img/TopBoxWoodAssembled.png" width="400">
 
 As a general best practice, you should pre-drill small [pilot holes](https://www.thehandymansdaughter.com/how-to-drill-pilot-hole/) before inserting the screws. Use a drill bit equal to or slightly smaller than the core of the screw (that is the solid center not including threads). For my #6 drywall screws, I use a 3/32" drill bit for this. Since I lack proper [counter-sinking](https://www.thehandymansdaughter.com/how-to-countersink-screws/) drill bits, after drilling the pilot hole, I just switched to a 5/16" bit and very carefully drilled a shallow ~1/4" deep hole. With a regular drill bit it can be very easy to go too deep so be careful!
 
@@ -146,21 +146,21 @@ Depending on your equipment and number of helpers, there could be many ways to a
 We started from the bottom, laying one tall side flat on top of the 3 side pieces (**make sure you screw into the cut sides of the cross pieces and not the original milled sides!!**). We lined up one cross piece with the bottom edge and side of the tall piece and put the other pieces under as well for support (exact placement not needed). Using the square to make sure everything was square as possible, we drilled the pilot holes, then counter-sunk and inserted the screws.
 
 Kind of like this:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/SidewayAssembly.png" width="600">
+<img src="img/SidewayAssembly.png" width="600">
 
 Repeat for the other bottom cross piece.
 
 For the top piece, I placed it about 4 inches below the top and otherwise used the same process as the bottom cross pieces\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/TopCrossPlacement.png" width="500">
+<img src="img/TopCrossPlacement.png" width="500">
 
 Next we flipped it over and did the same process for the other side:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/SidewayAssembly2.png" width="600">
+<img src="img/SidewayAssembly2.png" width="600">
 
 Now you should have an assembled top box!
 
 ## Attaching round top base
 Goal:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/TopBasic.png" width="400">
+<img src="img/TopBasic.png" width="400">
 
 Before we do this, use a 5/16" drill bit to drill a hole at the center of the round - you should have a small mark from the nail you used to trace the circle. Be careful to drill straight up and down. We don't want it to be super tight, so apply a very small amount of side to side pressure while running the drill through the hole a few times to widen it just a bit.
 
@@ -184,22 +184,22 @@ Notation note: A is the width (from outside of one tall side to outside of the o
 1. Ideally with someone helping you, hold the top and bottom together and screw in the screws
 
 (Screws won't be there yet, only there for reference):\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/BottomCornersAnno.png" width="600">
+<img src="img/BottomCornersAnno.png" width="600">
 
 After step 6 you should get the gray lines (screws will only be there after step 10):\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/BottomTraced.png" width="600">
+<img src="img/BottomTraced.png" width="600">
 
 After step 9:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/round-with-screws-rotated.jpg" width="400">
+<img src="img/round-with-screws-rotated.jpg" width="400">
 
 After step 10:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/upside-down-box-rotated.jpg" width="400">
+<img src="img/upside-down-box-rotated.jpg" width="400">
 
 Phew! Ideally now you have something that looks like our goal image above and the hardest part is behind us!
 
 ## Finishing the top box
 Goal:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/top-finished.jpg" width="400">
+<img src="img/top-finished.jpg" width="400">
 
 Our task here is to attach the Teflon/PTFE pads to the bearing cutouts
 
@@ -211,16 +211,16 @@ Be careful when cutting! PTFE is slippery! I just ran a sharp knife over the spo
 Now we'll need to drill pilot holes and counter-sinks. I used a very small 1/16" drill bit for the pilot holes and a 1/4" drill bit for the counter sink. Be extremely extremely careful when drilling the counter-sink holes (maybe practice on a corner), for my drill bit, I could only go about 1/4 turn to get to the right depth and used a knife to complete the circle. 
 
 The left two holes are examples of the counter-sink going too far:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/ptfe_mistake.jpg" width="500">
+<img src="img/ptfe_mistake.jpg" width="500">
 
 You'll want your Hadley (or at least MTA) handy for this step. For the placement of the PTFE strips, you'll want to align the top of the strip with the extreme of the travel of the Z bearing at slightly past vertical and slightly past horizontal, corresponding to the red lines in the following images:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/Z-BearingVertical-Anno-Cropped.png" width="500">
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/Z-BearingHorizontal-Anno-Cropped.png" width="500">
+<img src="img/Z-BearingVertical-Anno-Cropped.png" width="500">
+<img src="img/Z-BearingHorizontal-Anno-Cropped.png" width="500">
 
 ### Fastening the PTFE strips
 **Note**: This part will be a bit different if you chose the PTFE furniture sliders
 
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/TopPTFEInstall.png" width="400">\
+<img src="img/TopPTFEInstall.png" width="400">\
 
 
 With the PTFE strip aligned with the mark you just made and flush with the *outer* edge of the side board, drill the top pilot hole into the wood.
@@ -233,14 +233,14 @@ Repeat for all 4 PTFE strips on the top.
 
 ## Setting up the bottom base
 Goal:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/base-finished.jpg" width="500">
+<img src="img/base-finished.jpg" width="500">
 
 ### Drill center hole
 Drill a 5/16" hole in the very middle to match the hole we drilled into the center of the round top base. We don't want it to be super tight, so apply a very small amount of side to side pressure while running the drill through the hole a few to widen it just a bit.
 
 ### Tee nuts
 Goal (x3) (from bottom):\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/teenut.jpg" width="300">
+<img src="img/teenut.jpg" width="300">
 
 Next step is adding the 1/4" tee nuts for the feet. About 1.5" in from the edge, and centered, drill a 5/16" hole (my 1/4" tee nut has a 5/16" OD) in each "arm" of the base. Pay extra attention to drilling in straight down otherwise your feet will be at an angle.
 
@@ -257,7 +257,7 @@ Follow the same process as before for attaching them with the 5/8" screws.
 
 ## Add the feet
 Goal (x3):\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/foot.jpg" width="400">
+<img src="img/foot.jpg" width="400">
 
 1. Put a 1/4" nut on each of the 3 1/4"x2.5" bolts
 1. Put a 1/4" washer on each of the bolts.
@@ -273,10 +273,10 @@ OK! Time for final assembly!
 ## Combine top and bottom
 Goal:\
 Bottom:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/assembled_bottom.png" width="400">
+<img src="img/assembled_bottom.png" width="400">
 
 Top:\
-<img src="file:///C:/Users/wedge/Dropbox/3DPrinting/Hadley/MyWoodenRocker/assembled_top.png" width="400">
+<img src="img/assembled_top.png" width="400">
 
 1. Put a 5/16" washer on the 5/16" bolt and slide it from the bottom through the bottom base.
 1. Carefully line up the top assembly over the screw and slide it down over it.
