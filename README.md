@@ -1,5 +1,7 @@
 # Wooden Rocker Box for Hadley Telescope
 
+For a 3D version that you can look around and take apart, see [RockerBaseV3.f3d](RockerBaseV3.f3d)
+
 # Disclaimer
 This isn't the best or most cost-effective design for a wooden rocker, just a record of the one that I built. Feel free to change things if you feel they would be better, just make sure to adjust any other parts of the plan that would be influenced by that change.
 
