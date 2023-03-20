@@ -1,5 +1,7 @@
 # Wooden Rocker Box for Hadley Telescope
 
+A wooden rocker base for Maff's excellent [Hadley telescope](https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig)
+
 For a 3D version that you can look around and take apart, see [RockerBaseV3.f3d](RockerBaseV3.f3d)
 
 # Disclaimer
